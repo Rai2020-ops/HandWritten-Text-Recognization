@@ -1,4 +1,4 @@
-# Handwritten-Text-Recognition-using-Machine-Learning
+# Handwritten-Word-Recognition-using-Machine-Learning
 # Handwritten Text Recognition
 Handwritten Character Recognition is used to recognize handwritten English alphabets A-Z. There are two types of Handwritten Character Recognition. One is offline character recognition and another is online character recognition. In offline character recognition, the letter is captured optically by a scanner and the writing is available as an image. In online character recognition, data is dynamic. It is also known as pen based trajectory. In this project, I have implemented offline character recognition. 
 
